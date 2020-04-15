@@ -5,4 +5,5 @@ export default styled.div`
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  cursor: pointer;
 `;
